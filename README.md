@@ -48,5 +48,12 @@ DataSurgeX was developed by [software-Savants](https://github.com/Software-Savan
 DataSurgeX is licensed under the MIT License.
 
 ## Code of conduct
+We are committed to creating a welcoming and inclusive community for all users and contributors to DataSurgeX. We expect all members of the community to respect and adhere to the following code of conduct:
+
+* Be respectful and considerate of others.
+* Do not discriminate against others on the basis of race, ethnicity, religion, gender, sexual orientation, age, or disability.
+* Do not engage in harassment, bullying, or other abusive behavior.
+* Do not post or share inappropriate or offensive material.
+* Do not engage in any illegal activity.
 
 
