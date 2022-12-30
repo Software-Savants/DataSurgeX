@@ -42,7 +42,7 @@ All code contributions should follow the project's existing coding style.
 All code should be thoroughly tested and include relevant test cases.
 All new features or major changes should be documented in the relevant sections of the README file.
 ## Credits
-DataSurgeX was developed by User. Additional contributions have been made by Contributor 1 and Contributor 2.
+DataSurgeX was developed by [software-Savants](https://github.com/Software-Savants). Additional contributions have been made by Contributor 1 and Contributor 2.
 
 ## License
 DataSurgeX is licensed under the MIT License.
