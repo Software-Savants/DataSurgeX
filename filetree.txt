@@ -1,0 +1,127 @@
+DataSurgeX
+|-- src
+|   |-- main
+|   |   |-- java
+|   |   |   |-- com
+|   |   |       |-- datasurgex
+|   |   |           |-- data
+|   |   |           |   |-- DataCleaner.java
+|   |   |           |   |-- DataProcessor.java
+|   |   |           |-- model
+|   |   |           |   |-- Algorithm.java
+|   |   |           |   |-- Metric.java
+|   |   |           |-- service
+|   |   |           |   |-- ApiService.java
+|   |   |           |   |-- AuthService.java
+|   |   |           |-- util
+|   |   |               |-- ConfigUtil.java
+|   |   |-- resources
+|   |       |-- data
+|   |       |-- application.properties
+|   |-- test
+|   |   |-- java
+|   |   |   |-- com
+|   |   |       |-- datasurgex
+|   |   |           |-- data
+|   |   |           |   |-- DataCleanerTest.java
+|   |   |           |   |-- DataProcessorTest.java
+|   |   |           |-- model
+|   |   |           |   |-- AlgorithmTest.java
+|   |   |           |   |-- MetricTest.java
+|   |   |           |-- service
+|   |   |           |   |-- ApiServiceTest.java
+|   |   |           |   |-- AuthServiceTest.java
+|   |   |           |-- util
+|   |   |               |-- ConfigUtilTest.java
+|   |   |-- resources
+|   |       |-- data
+|-- docs
+|   |-- user-manual.pdf
+|   |-- api-reference.pdf
+|   |-- technical-notes.pdf
+|-- lib
+|   |-- library1.jar
+|   |-- library2.jar
+|   |-- library3.jar
+|-- build
+|   |-- target
+|   |   |-- datasurgex.jar
+|   |-- artifacts
+|   |   |-- build.log
+|   |-- reports
+|   |   |-- test
+
+
+
+
+
+DataSurgeX
+|-- src
+|   |-- main
+|   |   |-- java
+|   |   |   |-- com
+|   |   |       |-- datasurgex
+|   |   |           |-- data
+|   |   |           |   |-- cleaners
+|   |   |           |   |-- processors
+|   |   |           |-- model
+|   |   |           |   |-- algorithms
+|   |   |           |   |-- metrics
+|   |   |           |-- service
+|   |   |           |   |-- api
+|   |   |           |   |-- auth
+|   |   |           |-- util
+|   |   |               |-- config
+|   |   |-- resources
+|   |       |-- data
+|   |       |-- application.properties
+|   |-- test
+|   |   |-- java
+|   |   |   |-- com
+|   |   |       |-- datasurgex
+|   |   |           |-- data
+|   |   |           |   |-- cleaners
+|   |   |           |   |-- processors
+|   |   |           |-- model
+|   |   |           |   |-- algorithms
+|   |   |           |   |-- metrics
+|   |   |           |-- service
+|   |   |           |   |-- api
+|   |   |           |   |-- auth
+|   |   |           |-- util
+|   |   |-- resources
+|-- docs
+|   |-- user-manual.pdf
+|   |-- api-reference.pdf
+|   |-- technical-notes.pdf
+|-- lib
+|   |-- library1.jar
+|   |-- library2.jar
+|   |-- library3.jar
+|-- build
+|   |-- target
+|   |   |-- datasurgex.jar
+|   |-- artifacts
+|   |   |-- build.log
+|   |-- reports
+|   |   |-- test-results.html
+|-- config
+|   |-- application.yml
+|   |-- database.properties
+|-- scripts
+|   |-- build.sh
+|   |-- deploy.sh
+|   |-- data-migration.py
+|-- tests
+|   |-- unit
+|   |   |-- test1.py
+|   |   |-- test2.py
+|   |-- integration
+|   |   |-- test1.py
+|   |   |-- test2.py
+|   |-- e2e
+|   |   |-- test1.py
+|   |   |-- test2.py
+|-- .gitignore
+|-- pom.xml
+|-- README.md
