@@ -16,12 +16,12 @@ NumPy and Pandas libraries
 A database for storing data (optional)
 ## Installation
 To install DataSurgeX, follow these steps:
-Clone the repository: git clone https://github.com/user/datasurgex.git
-Install the required dependencies: pip install -r requirements.txt
+Clone the repository: `git clone https://github.com/user/datasurgex.git`
+Install the required dependencies: `pip install -r requirements.txt`
 ## Usage
 To use DataSurgeX, follow these steps:
 
-Run the software: python main.py
+Run the software: `python main.py`
 Load data into the software using the file menu
 Use the various tools and features to clean and transform the data
 Save the cleaned data to a file or database
@@ -33,9 +33,9 @@ Save the cleaned data to a file or database
 We welcome contributions to DataSurgeX! If you would like to contribute, please follow these guidelines:
 
 * Check the open issues to see if your contribution aligns with the project's current priorities.
-* Create a new branch for your changes: git checkout -b my-new-feature
-* Make your changes and commit them: git commit -am 'Add some feature'
-* Push the branch to GitHub: git push origin my-new-feature
+* Create a new branch for your changes: `git checkout -b my-new-feature`
+* Make your changes and commit them: `git commit -am 'Add some feature`'
+* Push the branch to GitHub: `git push origin my-new-feature`
 * Create a new pull request
 ## Contributor guidelines
 All code contributions should follow the project's existing coding style.
