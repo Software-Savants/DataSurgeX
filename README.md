@@ -2,7 +2,7 @@
 **DataSurgeX** is a software tool for data wrangling and cleaning. It provides a range of features and tools to help data scientists and analysts prepare data for analysis, including functions for identifying and fixing errors, deduplicating records, and handling missing values.
 
 ## Features
-Data cleansing tools to identify and fix errors, deduplicate records, and handle missing values
+**Data cleansing** tools to identify and fix errors, deduplicate records, and handle missing values
 Data visualization capabilities including scatterplots, histograms, and box plots
 Data transformation tools to convert data types and format data for analysis
 Spreadsheet-like functionality to sort, filter, and delete duplicate records
